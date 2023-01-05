@@ -1,0 +1,35 @@
+## extensions to ignore
+*.h5ad
+*.h5Seurat
+*.RData
+*.Rproj
+*.rds
+*.loom
+*.zip
+*fastq.gz
+*.tif
+*.cloupe
+*.tar
+._*
+
+## Folders to ignore
+Tmp/
+tmp/
+Doc/
+doc/
+Results/
+results/
+.rstudio/
+.keras/
+.ipynb_checkpoints/
+.local/
+.R/
+.rstudio/
+.cache
+.config
+
+## Files to ignore
+.DS_Store
+.Renviron
+.Rhistory
+.bash_history
